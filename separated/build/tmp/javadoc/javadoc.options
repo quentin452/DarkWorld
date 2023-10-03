@@ -1,0 +1,13 @@
+-classpath 'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\build\\classes\\java\\main;C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\build\\resources\\main;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\org.ow2.asm\\asm-debug-all\\5.2\\3354e11e2b34215f06dab629ab88e06aca477c19\\asm-debug-all-5.2.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\23.0\\c947004bb13d18182be60077ade044099e4f26f1\\guava-23.0.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.findbugs\\jsr305\\1.3.9\\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\\jsr305-1.3.9.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.google.errorprone\\error_prone_annotations\\2.0.18\\5f65affce1684999e2f4024983835efc3504012e\\error_prone_annotations-2.0.18.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\com.google.j2objc\\j2objc-annotations\\1.1\\ed28ded51a8b1c6b112568def5f4b455e6809019\\j2objc-annotations-1.1.jar;C:\\Users\\Administrator\\.gradle\\caches\\modules-2\\files-2.1\\org.codehaus.mojo\\animal-sniffer-annotations\\1.14\\775b7e22fb10026eed3f86e8dc556dfafe35f2d5\\animal-sniffer-annotations-1.14.jar'
+-d 'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\build\\docs\\javadoc'
+-doctitle 'separated 1.2-1.1.1 API'
+-notimestamp 
+-quiet 
+-windowtitle 'separated 1.2-1.1.1 API'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\com\\anatawa12\\forge\\gradle\\separated\\ArgsParser.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\com\\anatawa12\\forge\\gradle\\separated\\ListUtils.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\com\\anatawa12\\forge\\gradle\\separated\\mergeJars\\Main.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\cpw\\mods\\fml\\relauncher\\Side.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\cpw\\mods\\fml\\relauncher\\SideOnly.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\net\\minecraftforge\\fml\\relauncher\\Side.java'
+'C:\\Users\\Administrator\\Desktop\\github-intellidea\\Arcana-RPG\\separated\\src\\main\\java\\net\\minecraftforge\\fml\\relauncher\\SideOnly.java'

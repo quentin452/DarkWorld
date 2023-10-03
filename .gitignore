@@ -1,16 +1,28 @@
-## gradle
-/.gradle
-/build
-/eclipse
-/gradlew.bat
-/gradle-compile-mod.bat
-/gradle-install-update.bat
-/gradle-reset.bat
+# mac os
+.DS_Store
 
-## forge
-/forge-1.7.10-10.13.0.*
-/CREDITS-fml.txt
+# forge / gradle
+.gradle
+build/
+out/
+classes/
+run/
 
-## idea
-/.idea
-/DarkWorld.iml
+# eclipse 
+*.launch
+.settings
+.classpath
+.project
+eclipse
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
