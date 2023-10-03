@@ -34,7 +34,6 @@ minecraft {
 }
 
 dependencies {
-    implementation files('lib/RecurrentComplex-0.9.7.1.5-dev.jar')
 }
 
 processResources {
